@@ -1,0 +1,134 @@
+.app {
+  display: flex;
+  height: 100vh;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.canvas-container {
+  flex: 1;
+  min-height: 400px;
+  overflow: hidden;
+}
+
+.lunar-base-container {
+  width: 100%;
+  height: 100%;
+}
+
+.side-panel {
+  width: 350px;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+/* Styles for Dashboard, ControlPanel, and ReportPanel */
+.dashboard, .control-panel, .report-panel, .location-selector, .lunar-clock {
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.stats-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.stat {
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.control {
+  margin-bottom: 15px;
+}
+
+.control label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.control input[type="range"] {
+  width: 100%;
+}
+
+.location-selector select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border-radius: 4px;
+}
+
+.lunar-clock .clock-display {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Dark mode styles */
+.app.dark {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.app.dark .side-panel {
+  background-color: #2a2a2a;
+}
+
+.app.dark .stat,
+.app.dark .control-panel,
+.app.dark .report-panel,
+.app.dark .location-selector,
+.app.dark .lunar-clock {
+  background-color: #3a3a3a;
+  color: #ffffff;
+}
+
+.app.dark .control label,
+.app.dark .report-panel table {
+  color: #ffffff;
+}
+
+.app.dark input[type="range"] {
+  background-color: #4a4a4a;
+}
+
+.app.dark .location-selector select {
+  background-color: #3a3a3a;
+  color: #ffffff;
+  border-color: #555;
+}
+
+.app.dark .lunar-clock .clock-display {
+  color: #ffffff;
+}
+
+/* Ensure chart text is visible in both modes */
+.recharts-cartesian-axis-tick-value {
+  fill: currentColor;
+}
+
+.recharts-legend-item-text {
+  color: currentColor;
+}
+
+@media (max-width: 768px) {
+  .app {
+    flex-direction: column;
+  }
+
+  .side-panel {
+    width: 100%;
+  }
+}
+
