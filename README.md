@@ -1,4 +1,4 @@
-\`\`\`markdown
+
 # Learning from Ants: A Biomimetic Approach to Lunar Solid Waste Recycling and Energy Recovery
 
 Francisco Angulo Lafuente
