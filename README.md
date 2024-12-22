@@ -302,6 +302,10 @@ Our team's combined expertise in bio-inspired recycling, microbiology, and advan
 
 We are confident that "Learning from Ants" will make a significant contribution to NASA's LunaRecycle Challenge and advance the state-of-the-art in space waste management.
 
+https://www.youtube.com/watch?v=ha1zIOwr_Wc
+![Captura de pantalla 2024-12-22 172531](https://github.com/user-attachments/assets/e602cbdc-aef4-4216-844e-e7066e0c951b)(https://www.youtube.com/watch?v=ha1zIOwr_Wc)
+https://www.youtube.com/watch?v=ha1zIOwr_Wc
+
 
 
 # Learning from Ants: A Biomimetic Approach to Lunar Solid Waste Recycling and Energy Recovery
