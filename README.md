@@ -410,6 +410,10 @@ Generation of nutrient-rich by-products for agriculture.
 
 Adapting these results to lunar conditions requires optimization for low-gravity and vacuum environments, as well as consideration of transportation logistics for initial setup.
 
+
+
+
+
 # Learning from Ants: A Biomimetic Approach to Lunar Solid Waste Recycling and Energy Recovery
 
 ## Project Presentation for NASA's LunaRecycle Challenge
