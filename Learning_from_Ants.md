@@ -214,15 +214,11 @@ This detailed response provides specific examples for each characteristic, demon
 
 The "Learning from Ants" digital twin provides a dynamic and interactive visualization of the lunar waste recycling system, allowing users to monitor the system's performance in real-time and understand the complex interactions between different modules.
 
-**(Include Screenshots here)**
 
 *Screenshot 1:  Overall System View*  (Show a screenshot of the main interface of your demo, highlighting the different modules, resource levels, and control panel.)
 
-*Screenshot 2: Bioreactor Detail View* (Show a close-up of a specific bioreactor module, illustrating the data displayed, such as microbial activity, temperature, and output levels.)
+![Captura de pantalla 2024-12-22 124013](https://github.com/user-attachments/assets/a64e5552-f5fc-4ca6-a15d-4e0bc40cb136)
 
-*Screenshot 3: AI Control Visualization* (Show a screenshot demonstrating the AI in action, perhaps highlighting adjustments being made to bioreactor parameters or resource allocation.)
-
-*Screenshot 4: Resource Management View* (If applicable, show a visualization of resource consumption and production across the system, such as a graph or chart.)
 
 
 **Visualization Creation Process:**
