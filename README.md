@@ -8,6 +8,7 @@
 * **Relevant Past Work:** Francisco Angulo Lafuente has over 20 years of experience in developing bio-inspired recycling solutions and advanced artificial intelligence, as detailed in the "Expertise and Scientific Backing" section.
 * **Geographic Location:** Madrid, España
 * **One Sentence Description:** An interactive digital twin simulates an AI-managed biomimetic lunar recycling system, converting solid waste into valuable resources, ensuring the sustainability of lunar colonies.
+### DEMO: https://v0.dev/chat/YlnjpAoURGU?b=b_3PlnZlvVFpc
 
 ## 2. Vision and Innovation
 
@@ -310,7 +311,8 @@ https://www.youtube.com/watch?v=ha1zIOwr_Wc
 
 Francisco Angulo Lafuente
 
-DEMO: https://v0.dev/chat/SggADbY0mhv?b=DWyHcJe4ewM
+DEMO1: https://v0.dev/chat/YlnjpAoURGU?b=b_3PlnZlvVFpc
+DEMO2: https://v0.dev/chat/SggADbY0mhv?b=DWyHcJe4ewM
 
 AbstractThis paper proposes an innovative approach to managing solid waste and recovering energy in lunar colonies, drawing inspiration from the efficient waste processing and energy production systems observed in ant and termite colonies. By mimicking the symbiotic relationships found in social insect colonies, this biomimetic approach utilizes a combination of microorganisms, catalytic processes, and closed-loop systems to achieve high resource efficiency, self-regulating conditions, and minimal environmental impact. The proposed system is adapted for operation in extraterrestrial environments, leveraging autoclave pre-treatment and thermochemical methods to produce synthetic fuels, biofuels, and valuable by-products while maintaining sustainable waste management.
 
